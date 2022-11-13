@@ -1,6 +1,6 @@
 # Image Segmentation for Leaf Disease Detection
 Author: Selina Wang\
-Date: February 28, 2021\
+Date: December, 2020\
 Course: MATH123 Tufts University
 
 
