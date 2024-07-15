@@ -22,4 +22,4 @@ I chose three leaves that vary in shape, color and positioning of the tar spot t
 
 <img width="900" alt="Screen Shot 2022-11-04 at 2 01 49 PM" src="https://user-images.githubusercontent.com/80374850/200044651-e60e0967-94e1-433f-869e-6ce5f399e1f2.png">
 
-For more details please see the full report.
+For more details please see the full [report](https://github.com/selinawaang/Image-Segmentation-for-Leaf-Disease-Detection/blob/7c452ccd77d14460d4966bfc075c64e77ba82f06/Image%20Segmentation%20Final.ipynb).
